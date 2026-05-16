@@ -1,0 +1,21 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.MukundaKatta/base32",
+  "description": "MCP server: encode and decode RFC 4648 base32 (standard and Crockford).",
+  "version": "0.1.0",
+  "repository": {
+    "url": "https://github.com/MukundaKatta/base32-mcp",
+    "source": "github"
+  },
+  "websiteUrl": "https://github.com/MukundaKatta/base32-mcp",
+  "packages": [
+    {
+      "registryType": "npm",
+      "identifier": "@mukundakatta/base32-mcp",
+      "version": "0.1.0",
+      "transport": {
+        "type": "stdio"
+      }
+    }
+  ]
+}
